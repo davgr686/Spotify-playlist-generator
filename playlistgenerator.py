@@ -57,7 +57,7 @@ def get_artists_for_playlist(artist_id, artist_name, min_depth, max_depth):
 #-------------------------- main ----------------------------------------
 
 client_id = "" ## insert your client_id
-client_secret = "" ##inster your client_secret
+client_secret = "" ##insert your client_secret
 redirect_uri = "" # insert your redirect uri
 
 acc_name = input('Enter your Spotify account name: ')
