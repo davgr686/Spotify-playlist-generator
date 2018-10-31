@@ -3,7 +3,7 @@ Simple Spotify playlist generator implemented in Python using Spotify's API and 
 Enter an artist and it will generate a playlist based on related artists down the search tree.
 
 ## How to run script
-To run the script you will have to have a Spotfy account. 
+To run the script you will have to have a Spotify account. 
 
 Follow this guide to get a client id and client secret: https://developer.spotify.com/documentation/web-api/quick-start/
 
